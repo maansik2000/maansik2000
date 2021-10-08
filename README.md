@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maansik2000
-- 👀 I’m interested in Web development, and coding....and also a foodie
-- 🌱 I’m currently learning MERN
+- 👀 I’m interested in Full stack Web development, and coding....and also a foodie
+- 🌱 I’m currently learning React Native
 - Reach me through linkedin and instagram https://www.linkedin.com/in/mansi-sarkar/ and https://www.instagram.com/spud_tacular_/
 
 <!---
